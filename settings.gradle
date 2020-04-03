@@ -1,0 +1,2 @@
+rootProject.name='BackGroundImageExample'
+include ':app'
